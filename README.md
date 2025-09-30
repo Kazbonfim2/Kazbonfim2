@@ -1,4 +1,5 @@
-# Alas, brave adventurer!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alas,+brave+adventurer!;Como+vai+você?)](https://git.io/typing-svg)
+
 Nascido e criado em São Paulo, sou **Desenvolvedor Full Stack** em constante evolução, com foco em **Node.js/Express** e **React** utilizando **TypeScript**. Apaixonado por tecnologia e um eterno aprendiz, estou sempre buscando novas formas de otimizar e criar soluções criativas e sustentáveis.
 
 Minha missão é expandir constantemente meu campo de conhecimento. No momento, busco minha **primeira oportunidade formal na área como Desenvolvedor Júnior**, visando aplicar minha base técnica sólida e o compromisso com as práticas de **Clean Code** para crescer e agregar valor imediato à equipe.
